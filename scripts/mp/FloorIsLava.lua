@@ -1,6 +1,14 @@
 util.print("Starting Floor Is Lava Gamemode...")
 util.chatPrint("Starting Floor Is Lava Gamemode...")
 
+
+-- Checks to see if the player is touching something, and returns what it is in contact with
+function isInContact(player)
+
+-- I will add something here eventually.... honestly!
+
+end
+
 -- Sets jump height to 800 (duh) so that we can jump heigher, although fall damage is still the same
 -- may want to look into falldamage if it starts becoming a problem
 gsc.setdvar("jump_height", "800")

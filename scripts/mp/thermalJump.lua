@@ -1,5 +1,5 @@
-util.print("Starting Floor Is Lava Gamemode...")
-util.chatPrint("Starting Floor Is Lava Gamemode...")
+util.print("Starting Project Jump Gamemode...")
+util.chatPrint("Starting Project Jump Gamemode...")
 
 -- Sets jump height to 800 (duh) so that we can jump heigher, although fall damage is still the same
 -- may want to look into falldamage if it starts becoming a problem
@@ -12,5 +12,5 @@ gsc.setdvar("g_gravity", "200")
 -- knife collision even if the enemy is nowhere near.
 gsc.setdvar("player_meleeRange", "10000000")
 
-util.chatPrint("Floor Is Lava Gamemode Loaded, get Jumping!")
-util.print("Floor Is Lava Gamemode Loaded, get Jumping!")
+util.chatPrint("Project Jump Gamemode Loaded, get Jumping!")
+util.print("Project Jump Gamemode Loaded, get Jumping!")

@@ -21,9 +21,6 @@ To install Project Jump, you need:
 * A LEGITIMATE copy of Call of Duty: Modern Warfare 3 for Steam.
 * An up-to-date copy of Plutonium IW5 (r876) - do NOT use the beta/unstable branch!
 
-We strongly reccomend you install: 
-* [Plutonium Admin](https://forum.plutonium.pw/topic/450/release-plutonium-admin-script) - an easy-to-use admin plugin, adds useful commands for server owners and administrators.
-
 # Installation
 
 At the time of writing this Readme (07/02/18), this repo and the project are private whilst the mod is still under development. However, if this is ever opened to testers, the following is an extremely basic tutorial on how to get the gamemode installed.

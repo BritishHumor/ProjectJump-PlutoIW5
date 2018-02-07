@@ -1,6 +1,6 @@
 # THERMAL - Project Jump
 
-Project Jump was accidentally made on the **26th of January 2018** when the two current owners of Thermal Servers decided to mess around with a few gsc variables in MW3. To be more specific:
+Project Jump was created accidentally on the **26th of January 2018** when the two current owners of Thermal Servers decided to mess around with a few gsc variables in MW3. To be more specific:
 
  - **g_gravity**
  - **jump_height**
@@ -9,7 +9,7 @@ Project Jump was accidentally made on the **26th of January 2018** when the two 
 These few changes set about a fun little game that we played for hours, before realising how much potential it had.
 
 # What does it do?
-Fly like you've never flown before! Stab like you're on several Class-A drugs\*! Project Jump throws conventional weapons out of the window and increases your knife range spectacularily, enabling you to stap people from across the map.
+Fly like you've never flown before! Stab like you're on several Class-A drugs\*! Project Jump throws conventional weapons out of the window and increases your knife range spectacularily, enabling you to stab people from across the map.
 
 Project Jump adjusts:
 * **Gravity** - Reduced to 200 from 800. Makes you fly like you've just downed 12 cans of Red Bull.
@@ -18,7 +18,7 @@ Project Jump adjusts:
 
 # Installation
 
-At the time of writing this ReadMe (07/02/18), this Repo and the project are private whilst still under development. However, if this is ever opened to testers, the following is an extremely basic tutorial on how to get the gamemode installed.
+At the time of writing this Readme (07/02/18), this repo and the project are private whilst the mod is still under development. However, if this is ever opened to testers, the following is an extremely basic tutorial on how to get the gamemode installed.
 The Following Tutorial should be applicable for both installation on a dedicated server, and a client:
 
  1. Download the ProjectJump Master Repo (development is available but not recommended as it may not be stable).
@@ -27,7 +27,6 @@ The Following Tutorial should be applicable for both installation on a dedicated
  4. The gamemode should load and display some information in both console and chat, and if all goes well, the gamemode should now be running.... congrats!
 ***
 ## Thermal Servers
-
 Thermal Servers was created with the intention to draw attention to the [**Plutonium IW5 Project**](plutonium.pw). We believe the project deserved some recognition for what it has been able to create and wish to help it expand in the future.
 You can find our servers in their server browser. They will be listed with the **[THERMAL]** tag, e.g **[THERMAL] Project Jump**.
 For a full in-depth list of our Servers, as well as links to our other projects and donations page (in case you are feeling generous and want to help us keep creating our mods) visit us over at mw3.liamholmes.co.uk

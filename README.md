@@ -42,14 +42,15 @@ Dinxton will probably add a clever little message or joke here eventually, as we
 ### Master Branch
 
  - **Death by explosion can cause entire server to crash**
-	 - **Description**: The Title kind of sums it up, any death or damage taken by a non player entity often causes a crash.
-	 - **Cause**: The likely cause for this is the `player.attacker` variable, as any damaged / death caused a non player entity (e.g explosive barrel) will not have a this variable so it would reference nil and crash.
-	 - **Temp Fix**: Don't die or take damage by something that isn't a player. But In all seriousness this issue should be fixed soon anyway and if we can't then we'll start disabling features so it doesn't happen.
+	 - **Description**: The title kind of sums it up, any death or damage taken by a non-player entity often causes a crash.
+	 - **Cause**: The likely cause for this is the `player.attacker` variable, as any damage/death caused a non player entity (e.g explosive barrel) will not have a this variable so it would reference nil and crash.
+	 - **Temp Fix**: Don't die or take damage by something that isn't a player. But in all seriousness this issue should be fixed soon anyway, and if we can't, we'll start disabling features so it doesn't happen.
 	 
 	 
  - **Penalty Points from non-melee damage don't actually minus 50 points**
-	 - **Description**: When a player attempts to damage another player using methods which are non-melee, they are supposed to be punished by having 50 points removed (equivalent to 1 kill). However although the score is updated as if 50 points have been removed, it is shown that when the player gets another kill and has points added, their score goes back to what it was prior to punishment, +50 points.
+	 - **Description**: When a player attempts to damage another player using methods which are non-melee, they are supposed to be punished by having 50 points removed (equivalent to 1 kill). However, although the score is updated as if 50 points have been removed, it is shown that when the player gets another kill and has points added, their score goes back to what it was prior to punishment, +50 points.
 	 - **Cause**: The likely cause for this is the `player.ent.score` variable is actually just a display of the score and is not the actual score used by the game.
 	 - **Temp Fix**: We don't have one... sorry.
 ### Development Branch
 No Bugs/Issues for this branch exist at the moment.
+(not for long, lol)

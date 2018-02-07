@@ -72,6 +72,7 @@ sayAll("Juicing up Jump Muscles... [1/3]")
 -- which makes the knife fights more interesting in my opinion
 gsc.setdvar("g_gravity", "800")
 sayAll("Adjusting Earth's Gravity... [2/3]")
+
 -- The Fun bit, adjusts the player's melee range so they can knife enemies and breakable objects (e.g windows)
 -- from pretty much anywhere on the map. Interestingly if you hit a wall near a player, the player will hear the
 -- knife collision even if the enemy is nowhere near.

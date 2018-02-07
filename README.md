@@ -22,7 +22,7 @@ To install Project Jump, you need:
 * An up-to-date copy of Plutonium IW5 (r876) - do NOT use the beta/unstable branch!
 
 We strongly reccomend you install: 
-* [Plutonium Admin](https://forum.plutonium.pw/topic/450/release-plutonium-admin-script) - an easy-to-use admin plugin, adds commands useful for server owners and administrators.
+* [Plutonium Admin](https://forum.plutonium.pw/topic/450/release-plutonium-admin-script) - an easy-to-use admin plugin, adds useful commands for server owners and administrators.
 
 # Installation
 

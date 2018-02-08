@@ -34,7 +34,7 @@ The Following Tutorial should be applicable for both installation on a dedicated
  4. The gamemode should load and display some information in both console and chat, and if all goes well, the gamemode should now be running.... congrats!
 
 ## Thermal Servers
-Thermal Servers was created with the intention to draw attention to the [**Plutonium IW5 Project**](plutonium.pw). We believe the project deserved some recognition for what it has been able to create and wish to help it expand in the future.
+Thermal Servers was created with the intention to draw attention to the [**Plutonium IW5 Project**](http://plutonium.pw). We believe the project deserved some recognition for what it has been able to create and wish to help it expand in the future.
 You can find our servers in their server browser. They will be listed with the **[THERMAL]** tag, e.g **[THERMAL] Project Jump**.
 For a full in-depth list of our Servers, as well as links to our other projects and donations page (in case you are feeling generous and want to help us keep creating our mods) visit us over at [mw3.liamholmes.co.uk](http://mw3.liamholmes.co.uk/)
 ## Known Bugs/Issues

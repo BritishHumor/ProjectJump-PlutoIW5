@@ -1,3 +1,7 @@
+# Archived Project
+
+This project / repo is no longer being maintained due to Plutonium shutting down, feel free to fork if you want.
+
 
 # THERMAL - Project Jump
 
